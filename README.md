@@ -20,7 +20,4 @@ app_port: 7860
 
 ##  Answers are from Airbnb 10k filings.
 
----
-
-
-## <h1 align="center" id="heading">:wave: Code originates mainly from the amazing AI Makerspace Bootcamp!!! </h1>
+> :wave: Code originates mainly from the amazing AI Makerspace Bootcamp!!! For more see   [https://github.com/AI-Maker-Space]
