@@ -1,0 +1,13 @@
+chainlit==0.7.700
+cohere==4.37
+openai<2.0.0
+tiktoken<1
+python-dotenv==1.0.0
+chainlit==0.7.700
+langchain==0.2.5
+langchain_core==0.2.9
+langchain_community==0.2.5
+langchain-text-splitters==0.2.1
+langchain_openai==0.1.8
+PyMuPDF==1.24.5
+faiss-cpu==1.8.0.post1
