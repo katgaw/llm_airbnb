@@ -1,10 +1,10 @@
 ---
 AIRBNB APP
-Langchain/RAG/Chainlit/OpenAI
 
 ---
 
 ## 🤖 Airbnb-CHAT
+Langchain/RAG/Chainlit/OpenAI
 
 > Find out more about airbnb. Ask me anything.
 
