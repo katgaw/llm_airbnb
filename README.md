@@ -12,7 +12,7 @@ app_port: 7860
 
 > Find out more about airbnb. Ask me anything.
 
-<p align = "center" draggable=”false” ><img src="image.jpg" 
+<p align = "center" draggable=”false” ><img src="airbnb.png" 
      width="200px"
      height="auto"/>
 </p>
@@ -22,7 +22,7 @@ app_port: 7860
 
 ---
 
-<p align = "center" draggable=”false” ><img src="https://huggingface.co/spaces/KatGaw/airbnb_new_space/blob/main/airbnb_10k_filings.pdf" 
+<p align = "center" draggable=”false” ><img src="https://github.com/katgaw/llm_airbnb/blob/main/airbnb_10k_filings.pdf" 
      width="200px"
      height="auto"/>
 </p>
