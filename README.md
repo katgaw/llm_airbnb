@@ -1,11 +1,7 @@
 ---
-title: AIRBNB
-emoji: 📉
-colorFrom: pink
-colorTo: yellow
-sdk: docker
-pinned: false
-app_port: 7860
+AIRBNB APP
+Langchain/RAG/Chainlit/OpenAI
+
 ---
 
 ## 🤖 Airbnb-CHAT
