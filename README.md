@@ -22,10 +22,5 @@ app_port: 7860
 
 ---
 
-<p align = "center" draggable=”false” ><img src="https://github.com/katgaw/llm_airbnb/blob/main/airbnb_10k_filings.pdf" 
-     width="200px"
-     height="auto"/>
-</p>
-
 
 ## <h1 align="center" id="heading">:wave: Code originates mainly from the amazing AI Makerspace Bootcamp!!! </h1>
